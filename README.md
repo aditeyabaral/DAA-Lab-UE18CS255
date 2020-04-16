@@ -1,6 +1,8 @@
 # Design and Analysis of Algorithms Lab
 A repository containing the source codes for the Design and Analysis of Algorithms Laboratory course (UE18CS255) at PES University.
 
+Created and tested on Linux Environment :)
+
 # Compilation
 To compile any program with sample test cases as input: 
 
