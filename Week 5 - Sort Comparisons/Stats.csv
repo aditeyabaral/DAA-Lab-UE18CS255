@@ -1,4 +1,4 @@
-N,Insertion Sort,Bubble Sort,Selection Sort
+N,Insertion Sort,Bubble Sort,Selection Sort,
 5,0.000000,0.000000,0.000001,
 10000,0.155927,0.256705,0.120937,
 131072,31.225357,44.863648,21.851648,
