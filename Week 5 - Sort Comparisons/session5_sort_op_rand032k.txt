@@ -1,0 +1,5 @@
+Insertion Sort: 267341977 0.792816
+Bubble Sort: 536735700 3.456966
+Selection Sort: 536854528 1.279190
+Merge Sort: 450148 0.006238
+Quick Sort: 525408 0.004379

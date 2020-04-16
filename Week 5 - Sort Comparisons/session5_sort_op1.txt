@@ -1,0 +1,5 @@
+Insertion Sort: 6 0.000001
+Bubble Sort: 7 0.000001
+Selection Sort: 10 0.000001
+Merge Sort: 6 0.000005
+Quick Sort: 7 0.000002
