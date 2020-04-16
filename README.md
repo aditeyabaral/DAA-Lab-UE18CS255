@@ -1,4 +1,4 @@
-# Design and Analysis of Algorithms Lab
+# DAA-Lab-UE18CS255
 A repository containing the source codes for the Design and Analysis of Algorithms Laboratory course (UE18CS255) at PES University.
 
 Created and tested on Linux Environment :)
