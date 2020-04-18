@@ -8,7 +8,7 @@ int main()
    char inputfiles[2][30] = {"session12_WarshallsFloyds_ip1.txt",
                         "session12_WarshallsFloyds_ip2.txt"};
                         
-   char outfiles[2][30] = {"session12_WarshallsFloyds_op1.txt",
+   char outputfiles[2][30] = {"session12_WarshallsFloyds_op1.txt",
                         "session12_WarshallsFloyds_op2.txt"};
    int n1,n2;
    scanf("%d",&n1);
